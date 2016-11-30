@@ -8,8 +8,8 @@ import csv
 
 
 """
-    Author:cleverdeng
-    E-mail:clverdeng@gmail.com
+    Author:Yixuan Franco
+    E-mail:me@yixuan.li
 """
 
 __version__ = '0.9'
