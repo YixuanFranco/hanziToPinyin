@@ -14,7 +14,7 @@ pinyin.py
 
 
 ## 分析
-于是搜索, 有没有已经可以用的 `python` 小脚本可以将汉子转为拼音呢? 搜一搜得到两个结果:
+于是搜索, 有没有已经可以用的 `python` 小脚本可以将汉子转为拼音呢? 搜一搜得到两个结果:  
 1. [https://github.com/mozillazg/python-pinyin][1]  
 2. [https://github.com/cleverdeng/pinyin.py][2]  
 
